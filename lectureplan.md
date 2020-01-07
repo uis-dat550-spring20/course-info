@@ -6,7 +6,7 @@
 |:----:|:---------:|:-----:    |--------------------------------------------------|:-------:|:------------:|
 |  2   |  8/1      |   1,2     |  Introduction          |         |              |
 |      |  9/1      |   2        | Data processing       |       |              |
-|      |  9/1      |   Lab       | get registered in autograder, play with jupyter notebook, numpy, pandas, sklearn       |       |              |
+|      |  9/1      |   Lab       | Get started with in autograder, play with jupyter notebook, numpy, pandas, sklearn       |       |              |
 |  3   |  15/1     |   2,3       | Linear algebra, Dimensionality reduction, PCA, SVD |      |             |
 |      |  16/1     |          |  PCA, SVD continued  |         |            |
 |      |  16/1     |    Lab      |  Work on Lab assignment 1 (PCA)  |         |            |
