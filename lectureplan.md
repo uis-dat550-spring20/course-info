@@ -47,8 +47,8 @@
 |      |  9/4     |           |    Easter (No lecture) |        |              |
 |      |  9/4     |           |     Easter (No lab)                     |     |              |
 |  16  |  15/4     |           |   Deep learning on graphs (network embeddings)                                 |       |              |
-|      |  16/4     |           |  Clustering (K-means, K-medoids) |         |              |
+|      |  16/4     |           |  Clustering (K-means, K-medoids, Spectral, EM) |         |              |
 |      |  16/4     |           |    Work on project                     |       |              |
-|  17  |  22/4     |           |   Clustering (Spectral and EM) **Project + report due**                                   |       |              |
+|  17  |  22/4     |           |   Association Rule Mining **Project + report due**                                   |       |              |
 |      |  23/4     |           |  Project presentation + Q&A   |         |              |
 |      |  23/4     |   Lab        |    Project presentation + Q&A                     |       |              |
