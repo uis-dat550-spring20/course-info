@@ -14,11 +14,11 @@
 |      |  23/1     |    4       |     Classfication (Decision Trees)                                   |       |              |
 |      |  23/1     |    Lab       |   Lab assignment 1 continued |         |              |
 |  5   |  27/1     |    4       |   Decision trees regression                     |       |              |
-|      |  28/1     |           |  Ensemble methods, Random forests, Bayesian classifiers                                    |       |              |
-|      |  30/1     |    5       |    |         |              |
-|      |  31/1     |    5       |   Rule based, Nearest Neighbors classifiers                      |       |              |
-|  6   |  4/2      |           |   **Lab assignment 1 Due** and Lab assignment 2 announced                                    |       |              |
-|      |  6/2      |           |   No lecture |         |              |
+|      |  28/1     |           |  Ensemble methods, Random forests                                  |       |              |
+|      |  28/1     |    5       |  **Lab assignment 1 Due** and Lab assignment 2 announced  |         |              |
+|  6   |  5/2    |    5       |  Bayesian classifiers                        |       |              |
+|      |  6/2      |           |  Rule based, Nearest Neighbors classifiers                                      |       |              |
+|      |  6/2      |           |  Lab assignment 2 continued |         |              |
 |      |  7/2      |           |   Bayesian classifiers                     |     |              |
 |  7   |  11/2     |           |   Lab assignment 2 continued                                    |       |              |
 |      |  13/2     |          |   Linear Regression |         |              |
