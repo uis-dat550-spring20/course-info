@@ -24,7 +24,7 @@
 |      |  13/2     |   Lab       |  Lab assignment 2 continued  |         |              |
 |  8   |  19/2     |           |   Logistic Regression                      |       |              |
 |     |  20/2     |   ch 3 from MMDS book         |    LSH                                  |       |              |
-|      |  20/2     |    |  Lab |  **Lab assignment 2 Due**  and Lab assignment 3 announced, projects announced      |              |
+|      |  20/2     |  Lab  | **Lab assignment 2 Due**  and Lab assignment 3 announced, projects announced     |     |              |
 |  9   |  27/2     |           |  LSH Continued                                    |       |              |
 |      |  27/2     |           |  Support Vector Machines   |        |              |
 |      |  28/2     |   Lab       | Work on assignment3, **Project topic selection due**                         |      |              |
