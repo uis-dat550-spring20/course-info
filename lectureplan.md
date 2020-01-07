@@ -4,12 +4,13 @@
 
 | W    |  Date     | Chap.     | Topic                                            | Resources | Travels / Remarks     |
 |:----:|:---------:|:-----:    |--------------------------------------------------|:-------:|:------------:|
-|  2   |  7/1      |   -     |         --No Lab--                              |       |              |
-|      |  9/1      |   1,2        |  Introduction  |   [slides](lectureslides/Lecutre01-Introduction.pdf)      |              |
-|      |  10/1     |   2        | Data, Hands on: Getting started python notebooks, get used to numpy, pandas, scikit-learn        |  [slides](lectureslides/Lecture02-Data.pdf)      |              |
-|  3   |  14/1     |   2,3       | Dimensionality reduction, PCA, SVD |  [slides](lectureslides/Lecture03-DimensionalityReduction.pdf)     | This is normally a lab slot but swapped due to department event on 16th Jan             |
-|      |  16/1     |          |  Lab assignment 1 announced  |         |      Note the lab time is swapped with lecture, due to a department event, location is also changed (AR V-102 ([map](https://use.mazemap.com/#v=1&zlevel=1&left=5.6942916&right=5.6998302&top=58.9382070&bottom=58.9367275&sharepoitype=poi&sharepoi=133643&campusid=33)))        |
-|      |  17/1     |   3        |  Data exploration, visualization, data sampling                      |  [slides](lectureslides/lecture04-dataexploration.pdf)     |              |
+|  2   |  8/1      |   1,2     |  Introduction          |         |              |
+|      |  9/1      |   2        | Data processing       |       |              |
+|      |  9/1      |   Lab       | get registered in autograder, play with jupyter notebook, numpy, pandas, sklearn       |       |              |
+|  3   |  15/1     |   2,3       | Linear algebra, Dimensionality reduction, PCA, SVD |      |             |
+|      |  16/1     |          |  PCA, SVD continued  |         |            |
+|      |  16/1     |    Lab      |  Work on Lab assignment 1 (PCA)  |         |            |
+|      |  22/1     |   3        |  Data exploration, visualization, data sampling                      |       |              |
 |  4   |  21/1     |           |    Lab assignment 1 continued                                   |       |              |
 |      |  23/1     |    4       |    Classfication (Decision Trees) |   [slides](lectureslides/Lecture05_basic_classification.pdf)      |              |
 |      |  24/1     |    4       |   Decision trees regression                     |  [slides](lectureslides/Lecture06_dt_regression_performance.pdf)     |              |
