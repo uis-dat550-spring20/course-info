@@ -19,9 +19,9 @@
 |  6   |  5/2    |    5       |  Bayesian classifiers                        |       |              |
 |      |  6/2      |           |  Rule based, Nearest Neighbors classifiers                                      |       |              |
 |      |  6/2      |           |  Lab assignment 2 continued |         |              |
-|      |  7/2      |           |   Bayesian classifiers                     |     |              |
-|  7   |  11/2     |           |   Lab assignment 2 continued                                    |       |              |
-|      |  13/2     |          |   Linear Regression |         |              |
+|  7   |  12/2      |           |   Bayesian classifiers                     |     |              |
+|      |  13/2     |           |    Linear Regression                                   |       |              |
+|      |  13/2     |          |  Lab assignment 2 continued  |         |              |
 |      |  14/2     |           |   Logistic Regression                      |       |              |
 |  8   |  18/2     |           |    Lab assignment 2 continued                                   |       |              |
 |      |  20/2     |    6,7      |  LSH |        |              |
