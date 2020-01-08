@@ -4,7 +4,7 @@
 
 | W    |  Date     | Chap.     | Topic                                            | Resources | Travels / Remarks     |
 |:----:|:---------:|:-----:    |--------------------------------------------------|:-------:|:------------:|
-|  2   |  8/1      |   1,2     |  Introduction          |         |              |
+|  2   |  8/1      |   1,2     |  Introduction          |         |      [slides](https://stavanger.instructure.com/courses/6604/files?preview=645205)        |
 |      |  9/1      |   2        | Data processing       |       |              |
 |      |  9/1      |   Lab       | Get started with in autograder, play with jupyter notebook, numpy, pandas, sklearn       |       |              |
 |  3   |  15/1     |   2       | Linear algebra, Dimensionality reduction, PCA, SVD |      |             |
