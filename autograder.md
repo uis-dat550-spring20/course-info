@@ -50,9 +50,9 @@ Follow the steps below to register and sign up for the course on Autograder.
 
 1. Click the Courses menu item.
 
-2. In the Courses menu select “Join a course”. Available courses will be listed.
+2. In the Courses menu select “Join course”. Available courses will be listed.
 
-3. Find the course “uis-dat550-springYEAR” and click Sign up.
+3. Find the course “DAT550” and click Sign up.
 
 4. Read through and accept the terms. You will then be invited to the
    organization "uis-dat550-springYEAR" on GitHub.
