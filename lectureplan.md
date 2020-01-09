@@ -6,7 +6,7 @@
 |:----:|:---------:|:-----:    |--------------------------------------------------|:-------:|:------------:|
 |  2   |  8/1      |   1,2     |  Introduction          |   [slides](https://stavanger.instructure.com/courses/6604/files?preview=645205)      |              |
 |      |  9/1      |   2        | Data processing       |   [slides](https://stavanger.instructure.com/courses/6604/files?preview=646042)    |              |
-|      |  9/1      |   Lab       | Get started with in autograder, play with jupyter notebook, numpy, pandas, sklearn       |       |   [hands-on](https://github.com/uis-dat550-spring20/course-info/tree/master/hands-on/hands-on-1)           |
+|      |  9/1      |   Lab       | Get started with in autograder, play with jupyter notebook, numpy, pandas, sklearn       |       [hands-on](https://github.com/uis-dat550-spring20/course-info/tree/master/hands-on/hands-on-1) |              |
 |  3   |  15/1     |   2       | Linear algebra, Dimensionality reduction, PCA, SVD |      |             |
 |      |  16/1     |          |  PCA, SVD continued  |         |            |
 |      |  16/1     |    Lab      |  Work on Lab assignment 1 (PCA)  |         |            |
