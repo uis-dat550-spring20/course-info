@@ -80,7 +80,7 @@ This section give step-by-step instructions on how to submit assignments.
    Your solution to the assignments should be pushed here.
 
 2. To get started, decide on a suitable location for your workspace for the course.
-   In this guide we will use `$HOME/dat320-2019` as the workspace. Do the following
+   In this guide we will use `$HOME/uis-dat550-spring20` as the workspace. Do the following
    making sure to replace `username` with your GitHub user name:
 
    ```console
