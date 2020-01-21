@@ -49,6 +49,6 @@
 |  16  |  15/4     |           |     Work on project                               |       |              |
 |      |  16/4     |           |  Deep learning on graphs (network embeddings)  |         |              |
 |      |  16/4     |           |    Clustering (K-means, K-medoids, Spectral, EM)                    |       |              |
-|  17  |  22/4     |      Lab        |    Project presentation + Q&A                                        |       |              |
-|      |  23/4     |         |   Association Rule Mining and Anomoly detection **Project + report due**      |         |              |
+|  17  |  22/4     |      Lab        |  **Project + report due**                                         |       |              |
+|      |  23/4     |         |   Project presentation + Q&A       |         |              |
 |      |  23/4     |    |  Project presentation + Q&A                   |       |              |
