@@ -11,7 +11,7 @@
 |      |  16/1     |          |  Dimensionality reduction PCA, SVD   |  [slides](https://stavanger.instructure.com/courses/6604/files/650574?module_item_id=77979), [SVD video](https://www.youtube.com/watch?v=P5mlg91as1c), [Linear Algebra intro](https://www.deeplearningbook.org/slides/02_linear_algebra.pdf)       |            |
 |      |  16/1     |    Lab      |  Work on Lab assignment 1 (PCA)  |         |            |
 |  4   |  22/1     |    Lab       |   Lab assignment 1 continued                     |       |              |
-|      |  23/1     |    2        |  Data exploration, visualization, data sampling                                   |       |              |
+|      |  23/1     |    2        |  Data exploration, visualization                                  |       |              |
 |      |  23/1     |    3       |     Classfication (Decision Trees) |         |              |
 |  5   |  27/1     |          |  **Lab assignment 1 Due** and Lab assignment 2 announced                     |       |              |
 |      |  28/1     |    3       |   Decision trees regression                                  |       |              |
