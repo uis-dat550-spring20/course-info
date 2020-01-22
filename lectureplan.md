@@ -41,8 +41,8 @@
 |      |  26/3     |       |   Language models and Recurrent Neural Networks       |     |              |
 |      |  26/3     |      | GRU, LSTM and Transformer models                    |    |              |
 |  14  |  1/4      |           |    Work on project                    |       |                 |
-|      |  2/4      |           |   Guest lecture 1  (Time series analysis)                             |       | Given by  Magnus Book         |
-|      |  2/4      |           |   Guest lecture 2 (Tentative) ||     Travel to EDBT            |
+|      |  2/4      |           |   No lecture                             |       |         |
+|      |  2/4      |  10.15 to 12         |   Guest lecture 2 (Time series analysis) ||     Given by  Magnus Book            |
 |  15  |  8/4      |           |   Easter (No lab)                                    |       |              |
 |      |  9/4     |           |    Easter (No lecture) |        |              |
 |      |  9/4     |           |     Easter (No lecture)                     |     |              |
