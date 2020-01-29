@@ -1,4 +1,4 @@
-# Practicum 5: Classification
+# Hands-on-4: Classification
 
 ## Exercises
 
