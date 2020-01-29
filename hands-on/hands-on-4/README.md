@@ -1,6 +1,6 @@
 # Hands-on-4: Classification
 
-## Exercises
+## Tasks
 
 1. **Learning a Decision Tree**
 
