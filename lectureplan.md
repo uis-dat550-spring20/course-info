@@ -17,7 +17,7 @@
 |      |  30/1     |    3       |   Decision trees regression                                  |   [slides](https://stavanger.instructure.com/courses/6604/files/664692?module_item_id=80768)    |              |
 |      |  30/1     |    6       |  Ensemble methods, Random forests   |   [slides](https://stavanger.instructure.com/courses/6604/files/664693?module_item_id=80769)      |              |
 |  6   |  5/2    |          |  Lab assignment 2 continued                     |       |              |
-|      |  6/2      |     6       |   Rule based, Nearest Neighbors classifiers                                     |   [slides](https://stavanger.instructure.com/courses/6604/files/664694?module_item_id=80770)    |              |
+|      |  6/2      |     6       |   Rule based, Nearest Neighbors classifiers                                     |   [slides](https://stavanger.instructure.com/courses/6604/files/664694?module_item_id=80770)   [Exercise](https://github.com/uis-dat550-spring20/course-info/blob/master/exercises/Exercise-3.pdf) |              |
 |      |  6/2      |         |    Bayesian classifiers  (Naive Bayes and Bayesian Networks)   |         |              |
 |  7   |  12/2      |  Lab       |  Lab assignment 2 continued                     |     |              |
 |      |  13/2     |  6         |   Bayesian classifiers                                    |       |              |
