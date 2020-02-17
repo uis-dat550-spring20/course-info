@@ -12,7 +12,7 @@
 |      |  16/1     |    Lab      |  Work on Lab assignment 1 (PCA)  |         |            |
 |  4   |  22/1     |    Lab       |   Lab assignment 1 continued                     |       |              |
 |      |  23/1     |    2        |  Data exploration, visualization                                  |  [Slides](https://stavanger.instructure.com/courses/6604/files/655308?module_item_id=79090)     |              |
-|      |  23/1     |    3       |     Classfication (Decision Trees) |   [slides](https://stavanger.instructure.com/courses/6604/files/655376?module_item_id=79099)      |              |
+|      |  23/1     |    3       |     Classfication (Decision Trees) |   [slides](https://stavanger.instructure.com/courses/6604/files?preview=673527)      |              |
 |  5   |  29/1     |          |  **Lab assignment 1 Due** and Lab assignment 2 announced                     |       |              |
 |      |  30/1     |    3       |   Decision trees regression                                  |   [slides](https://stavanger.instructure.com/courses/6604/files/664692?module_item_id=80768)    |              |
 |      |  30/1     |    6       |  Ensemble methods, Random forests   |   [slides](https://stavanger.instructure.com/courses/6604/files/664693?module_item_id=80769)      |              |
