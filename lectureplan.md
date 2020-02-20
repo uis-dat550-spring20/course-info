@@ -20,8 +20,8 @@
 |      |  6/2      |     6       |   Rule based, Nearest Neighbors classifiers                                     |   [slides](https://stavanger.instructure.com/courses/6604/files/664694?module_item_id=80770)   [Exercise](https://github.com/uis-dat550-spring20/course-info/blob/master/exercises/Exercise-3.pdf) |              |
 |      |  6/2      |         |    Bayesian classifiers  (Naive Bayes and Bayesian Networks)   |   [slides](https://stavanger.instructure.com/courses/6604/files?preview=673536)      |              |
 |  7   |  12/2      |  Lab       |  Lab assignment 2 continued                     |     |              |
-|      |  13/2     |  6         |   Bayesian classifiers                                    |       |              |
-|      |  13/2     |   6        |    Linear Regression  |  [slides](https://stavanger.instructure.com/courses/6604/files/675646?module_item_id=82491)       |              |
+|      |  13/2     |  6         |   Bayesian classifiers                                    |   [hands-on-5]([hands-on-1](https://github.com/uis-dat550-spring20/course-info/tree/master/hands-on/hands-on-5))    |              |
+|      |  13/2     |   6        |    Linear Regression  |  [slides](https://stavanger.instructure.com/courses/6604/files/675646?module_item_id=82491)   [hands-on-6](https://github.com/uis-dat550-spring20/course-info/tree/master/hands-on/hands-on-6)    |              |
 |  8   |  19/2     |     Lab  | **Lab assignment 2 Due**  and Lab assignment 3 announced, projects announced                      |       |              |
 |     |  20/2     |         |   Logistic Regression                                 | [slides](https://stavanger.instructure.com/courses/6604/files/675646?module_item_id=82491)      |              |
 |      |  20/2     |  ch 3 from MMDS book         |    LSH      |   [slides](https://stavanger.instructure.com/courses/6604/files/675647?module_item_id=82492)  |              |
