@@ -21,10 +21,10 @@
 |      |  6/2      |         |    Bayesian classifiers  (Naive Bayes and Bayesian Networks)   |   [slides](https://stavanger.instructure.com/courses/6604/files?preview=673536)      |              |
 |  7   |  12/2      |  Lab       |  Lab assignment 2 continued                     |     |              |
 |      |  13/2     |  6         |   Bayesian classifiers                                    |       |              |
-|      |  13/2     |   6        |    Linear Regression  |         |              |
+|      |  13/2     |   6        |    Linear Regression  |  [slides](https://stavanger.instructure.com/courses/6604/files/675646?module_item_id=82491)       |              |
 |  8   |  19/2     |     Lab  | **Lab assignment 2 Due**  and Lab assignment 3 announced, projects announced                      |       |              |
-|     |  20/2     |         |   Logistic Regression                                 |       |              |
-|      |  20/2     |  ch 3 from MMDS book         |    LSH      |     |              |
+|     |  20/2     |         |   Logistic Regression                                 | [slides](https://stavanger.instructure.com/courses/6604/files/675646?module_item_id=82491)      |              |
+|      |  20/2     |  ch 3 from MMDS book         |    LSH      |   [slides](https://stavanger.instructure.com/courses/6604/files/675647?module_item_id=82492)  |              |
 |  9   |  27/2     |     Lab       | Work on assignment3, **Project topic selection due**                                 |       |              |
 |      |  27/2     |             |  LSH Continued       |        |              |
 |      |  28/2     |      |  Support Vector Machines                         |      |              |
