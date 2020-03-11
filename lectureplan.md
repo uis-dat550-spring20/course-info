@@ -32,8 +32,8 @@
 |      |  5/3      |         |   Cancelled      |        |              |
 |      |  5/3      |        |   Cancelled                   |      |              |
 |  11  |  11/3     |       Lab       |   **Lab assignment 3 Due**  Work on project                                       |       |              |
-|      |  12/3     |           |  SVM   |         |      (https://stavanger.instructure.com/courses/6604/files/689900?module_item_id=84246)[slides]        |
-|      |  12/3     |     |   Neural Networks, Deep feed forward networks, Backpropagation                   |       |   (https://stavanger.instructure.com/courses/6604/files/689899?module_item_id=84247)[slides]            |
+|      |  12/3     |           |  SVM   |  [slides](https://stavanger.instructure.com/courses/6604/files/689900?module_item_id=84246)       |              |
+|      |  12/3     |     |   Neural Networks, Deep feed forward networks, Backpropagation                   |  [slides]    (https://stavanger.instructure.com/courses/6604/files/689899?module_item_id=84247) |               |
 |  12  |  18/3     |     Lab       |       Work on project                                        |       |              |
 |      |  19/3     |           |   Convolutional Neural Networks (CNNs)     |        |              |
 |      |  19/3     |    | Deep learning for text, Word2Vec             |      |              |
