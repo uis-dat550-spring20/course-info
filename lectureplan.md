@@ -39,7 +39,7 @@
 |      |  19/3     |    | CNN Applications             |    [Lecture video](https://stavanger.instructuremedia.com/embed/d2fb3d39-8892-445e-bdc6-1a240983783a)  |              |
 |  13  |  25/3     |       Lab      |  Work on project                                      |       |              |
 |      |  26/3     |       |    Recurrent Neural Networks       | [slides](https://stavanger.instructure.com/courses/6604/modules/items/85811) [RNNs Video](https://stavanger.instructuremedia.com/embed/ce8c2423-c09e-4c65-b4ab-620328dc8322)   |              |
-|      |  26/3     |      | GRU, LSTM and Transformer models                    |   [LSTM hands-on video](https://stavanger.instructuremedia.com/embed/3ca82f8c-9e4a-4435-a0ca-40252501dc28) |              |
+|      |  26/3     |      | GRU, LSTM and Transformer models                    | [hands-on-10](https://stavanger.instructure.com/courses/6604/modules/items/85840),  [LSTM hands-on video](https://stavanger.instructuremedia.com/embed/3ca82f8c-9e4a-4435-a0ca-40252501dc28) |              |
 |  14  |  1/4      |           |    Work on project                    |       |                 |
 |      |  2/4      |  8.15 to 10         |   No lecture                             |       |         |
 |      |  2/4      |  10.15 to 12         |   Guest lecture 2 (Time series analysis) ||     Given by  Magnus Book            |
