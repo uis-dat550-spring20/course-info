@@ -35,11 +35,11 @@
 |      |  12/3     |           |  SVM   |  [slides](https://stavanger.instructure.com/courses/6604/files/689900?module_item_id=84246),  [hands-on-8](https://github.com/uis-dat550-spring20/course-info/tree/master/hands-on/hands-on-8)     |              |
 |      |  12/3     |     |   Neural Networks, Deep feed forward networks, Backpropagation                   |  [slides](https://stavanger.instructure.com/courses/6604/files/689899?module_item_id=84247), [hands-on-8](https://github.com/uis-dat550-spring20/course-info/tree/master/hands-on/hands-on-8) |               |
 |  12  |  18/3     |     Lab       |       Work on project                                        |       |              |
-|      |  19/3     |           |   Convolutional Neural Networks (CNNs)     |        |              |
-|      |  19/3     |    | Deep learning for text, Word2Vec             |      |              |
+|      |  19/3     |           |   Convolutional Neural Networks (CNNs)     |    [slides](https://stavanger.instructure.com/courses/6604/modules/items/85004) [Lecture video](https://stavanger.instructuremedia.com/embed/6320d765-254d-4553-9d69-35005e488e64) [recap video and missing parts](https://stavanger.instructuremedia.com/embed/aa31bb77-d85d-4251-9ef9-5a6de3aa4042)  |              |
+|      |  19/3     |    | CNN Applications             |    [Lecture video](https://stavanger.instructuremedia.com/embed/d2fb3d39-8892-445e-bdc6-1a240983783a)  |              |
 |  13  |  25/3     |       Lab      |  Work on project                                      |       |              |
-|      |  26/3     |       |   Language models and Recurrent Neural Networks       |     |              |
-|      |  26/3     |      | GRU, LSTM and Transformer models                    |    |              |
+|      |  26/3     |       |    Recurrent Neural Networks       | [slides](https://stavanger.instructure.com/courses/6604/modules/items/85811) [RNNs Video](https://stavanger.instructuremedia.com/embed/ce8c2423-c09e-4c65-b4ab-620328dc8322)   |              |
+|      |  26/3     |      | GRU, LSTM and Transformer models                    | [hands-on-10](https://stavanger.instructure.com/courses/6604/modules/items/85840),  [LSTM hands-on video](https://stavanger.instructuremedia.com/embed/3ca82f8c-9e4a-4435-a0ca-40252501dc28) |              |
 |  14  |  1/4      |           |    Work on project                    |       |                 |
 |      |  2/4      |  8.15 to 10         |   No lecture                             |       |         |
 |      |  2/4      |  10.15 to 12         |   Guest lecture 2 (Time series analysis) ||     Given by  Magnus Book            |
